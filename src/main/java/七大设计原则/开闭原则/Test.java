@@ -1,4 +1,4 @@
-package 开闭原则;
+package 七大设计原则.开闭原则;
 
 /**
  * @author Lil

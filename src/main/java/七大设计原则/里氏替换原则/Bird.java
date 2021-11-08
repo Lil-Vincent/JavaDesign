@@ -1,4 +1,4 @@
-package 里氏替换原则;
+package 七大设计原则.里氏替换原则;
 
 /**
  * @author Lil
