@@ -5,6 +5,7 @@ import java.math.BigDecimal;
 /**
  * @author Lil
  * @date 2021/11/17 22:28
+ * 注释添加
  */
 public class AliPayStrategy implements IPayStrategy {
     public boolean pay(int money) {
