@@ -8,6 +8,6 @@ public class Test {
     public static void main(String[] args) {
         Boss boss = new Boss();
         Manager manager = new Manager(new Cabbage());
-        boss.getSaleRecord(manager);
+        boss.select(manager);
     }
 }

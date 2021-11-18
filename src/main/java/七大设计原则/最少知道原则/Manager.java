@@ -8,12 +8,12 @@ public class Manager {
     public Cabbage cabbage;
 
     public Manager(Cabbage cabbage) {
-
-
-
         this.cabbage = cabbage;
     }
 
+    public Manager() {
+
+    }
 
 
     public void getSaleRecord() {

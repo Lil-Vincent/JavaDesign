@@ -1,4 +1,4 @@
-package 简单工厂模式;
+package 三大工厂模式.简单工厂模式;
 
 /**
  * @author Lil

@@ -7,7 +7,8 @@ import java.util.PriorityQueue;
  * @date 2021/11/8 17:09
  */
 public class Boss {
-    public void getSaleRecord(Manager manager) {
+
+    public void select(Manager manager) {
         manager.getSaleRecord();
     }
 }
