@@ -10,6 +10,11 @@ public class AliPayStrategy implements IPayStrategy {
     public boolean pay(int money) {
         System.out.println("支付宝支付1000元");
         return true;
+
+
+
+
+
     }
 
     public BigDecimal queryBlance() {
